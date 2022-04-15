@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP32-S2-WROOM-rescue)(type Legacy)(uri D:/NasCloud/Creation3D/esp32-pager/ESP32-S2-WROOM-rescue.lib)(options "")(descr ""))
+  (lib (name ti92-reviceStable-rescue)(type Legacy)(uri ${KIPRJMOD}/ti92-reviceStable-rescue.lib)(options "")(descr ""))
+)
